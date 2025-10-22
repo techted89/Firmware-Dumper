@@ -6,11 +6,11 @@ on:
       USER_NAME:
         description: 'Name of your GitHub Account'
         required: true
-        default: 'YZBruh'
+        default: 'techted89'
       USER_EMAIL:
         description: 'E-mail of your GitHub Account'
         required: true
-        default: 'yagizzengin73@gmail.com'
+        default: 'theodoredrach@gmail.com'
       FIRMWARE_URL:
         description: 'Stock ROM Link'
         required: true
